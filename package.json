@@ -1,0 +1,30 @@
+{
+  "name": "website-of-ananya",
+  "version": "1.0.0",
+  "description": "It's just a website",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cache": "^1.0.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^3.2.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.5",
+    "run-sequence": "^2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananyaneogi/awebsite.git"
+  },
+  "author": "ananya neogi",
+  "bugs": {
+    "url": "https://github.com/ananyaneogi/awebsite/issues"
+  },
+  "homepage": "https://github.com/ananyaneogi/awebsite#readme"
+}
